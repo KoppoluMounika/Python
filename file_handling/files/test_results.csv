@@ -1,0 +1,6 @@
+TestCase,Status,ExecutionTime
+TC001,Passed,1.2
+TC002,Failed,2.5
+TC003,Passed,1.0
+TC004,Skipped,0.0
+TC005,Passed,1.8

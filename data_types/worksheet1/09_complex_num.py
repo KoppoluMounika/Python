@@ -1,0 +1,5 @@
+a=complex(1,2)
+b=complex(5,3)
+print(a+b)
+print(a-b)
+print(a*b)

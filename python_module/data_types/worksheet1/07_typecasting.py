@@ -1,0 +1,5 @@
+a=input()
+b=int(a)
+c=float(a)
+print(a,b,c)
+print(type(a),type(b),type(c))

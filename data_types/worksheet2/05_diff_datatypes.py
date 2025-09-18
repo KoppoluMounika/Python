@@ -1,0 +1,1 @@
+#all variables can be treated as strings

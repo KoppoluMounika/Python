@@ -1,0 +1,6 @@
+l=list(map(int,input().split()))
+l=set(l)
+l=list(l)
+k=int(input())
+l.sort()
+print(l[k-1])
